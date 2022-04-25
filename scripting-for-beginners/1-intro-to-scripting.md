@@ -28,3 +28,4 @@ Now, go to the **HOME** tab and press **Run** by press the arrow pointing down u
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70015895/165114543-8a3ef4a6-335e-4656-ae64-3de2929379a8.gif)
 
 ### And that concludes the first article on how to script in **Roblox**!
+#### Next time we will learn about variables!
