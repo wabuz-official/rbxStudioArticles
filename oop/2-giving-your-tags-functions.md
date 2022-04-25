@@ -49,7 +49,7 @@ end
 ```
 
 
-Back in our **TagHandler** script, type the following script:
+Back in our **TagHandler** script, type the following code:
 ```lua
 local TagModules = game:GetService("ServerScriptService"):WaitForChild("TagModules")
 
