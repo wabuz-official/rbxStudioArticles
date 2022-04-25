@@ -41,4 +41,4 @@ Now when we **run our game**, the string should be printed out as shown below:
 ![image](https://user-images.githubusercontent.com/70015895/165128402-42c78a20-d42c-4067-b37e-ce23813490e4.png)
 
 ### And that concludes the second article on how to script in **Roblox!**
-#### Next time we will learn about basic math in **Roblox!**
+#### Next we will learn about basic math in **Roblox!**
