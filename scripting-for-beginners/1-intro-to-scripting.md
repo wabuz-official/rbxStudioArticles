@@ -16,7 +16,7 @@ Before I teach you how to print stuff in the console, make sure you have **Outpu
 
 ![image](https://user-images.githubusercontent.com/70015895/165112547-9b642252-8aa0-4b6f-84fc-1a47c88db0bc.png)
 
-Now that's out of the way, create a new **Script** in **ServerScriptServer**, you can name it anything you'd like or just keep it default.
+Now that's out of the way, create a new **Script** in **ServerScriptService**, you can name it anything you'd like or just keep it default.
 When you create the script, you're script should start with following code:
 ```lua
 print("Hello World!")
