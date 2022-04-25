@@ -11,7 +11,7 @@ For more information, see [Variable (computer science)](https://en.wikipedia.org
 
 ## Creating a variable
 
-Let's go back to our **Script** in **ServerScriptService** from our previous article. Delete all the code in the script and type the following:
+Let's go back to our **Script** in **ServerScriptService** from our previous article. Delete all the code in the script and type the following code:
 ```lua
 local MyVariable = "This is my variable!"
 ```
@@ -22,7 +22,7 @@ it prints out our variable.
 
 ## Printing our Variable
 
-To print a variable, we have to do someone slightly different.
+To print a variable, we have to do something slightly different.
 
 Instead of doing:
 ```lua
