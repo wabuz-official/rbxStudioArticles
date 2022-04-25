@@ -21,7 +21,7 @@ First, we are going to install a plugin for Roblox Studio called [Tag Editor](ht
 
 > For more information, check out the **[Devforum Post](https://devforum.roblox.com/t/tag-editor-plugin/101465)**.
 
-Once you have installed the **Tag Editor**, go over to the **PLUGINS** tab in **Roblox Studio** and click on **Tag Window**.
+Once you have installed **Tag Editor**, go over to the **PLUGINS** tab in **Roblox Studio** and click on **Tag Window**.
 
 ![image](https://user-images.githubusercontent.com/70015895/165085306-10301e8b-e2d1-46f8-ba7d-d98252dae3af.png)
 
