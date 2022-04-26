@@ -6,7 +6,7 @@ In **Roblox**, we are able to script **math equations** to **calculate** an **an
 
 We are going to create **2 variables** we want to **add together**. I am going to use **2** and **7**.
 
-Next, we're going to defy a **variable** for those **2 numbers** like so:
+Next, we're going to define a **variable** for those **2 numbers** like so:
 ```lua
 local FirstNumber = 2
 local SecondNumber = 7
